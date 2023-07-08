@@ -1,1 +1,4 @@
 # Titanic-Disaster---Pyspark
+The Titanic Disaster project utilizing PySpark involves analyzing and processing a dataset related to the infamous sinking of the RMS Titanic. PySpark, a powerful framework for distributed data processing, is employed to handle large-scale data efficiently.
+In this project, we aim to explore various aspects of the Titanic tragedy, such as passenger demographics, survival rates, and factors contributing to survival. We start by importing the Titanic dataset into PySpark and performing data cleaning and preprocessing tasks to ensure data quality.
+Next, using PySpark's data manipulation capabilities, we extract valuable insights from the dataset. This includes analyzing passenger attributes like age, gender, class, and fare, and investigating their impact on survival rates. Additionally, we may explore relationships between variables and uncover patterns or correlations within the data.
